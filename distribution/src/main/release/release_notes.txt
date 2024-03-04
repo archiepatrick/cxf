@@ -1,4 +1,4 @@
-Apache CXF 3.1.18 Release Notes
+Apache CXF 3.1.19 Release Notes
 
 1. Overview
 
@@ -25,7 +25,7 @@ http://cxf.apache.org/docs/31-migration-guide.html
 for further information and requirements for upgrading from earlier
 versions of CXF.
 
-3.1.18 fixes over 11 JIRA issues reported by users and the community.
+3.1.19 fixes over 11 JIRA issues reported by users and the community.
 
 
 2. Installation Prerequisites 
